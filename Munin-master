@@ -1,0 +1,4 @@
+Munin_master:
+  pkg:
+    -installed
+    
